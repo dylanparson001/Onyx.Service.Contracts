@@ -12,7 +12,7 @@
 
 		<Description>Solution for shared Contracts </Description>
 
-		<RepositoryUrl>https://github.com/dylanparson001/Onyx.Shared.Contract</RepositoryUrl>
+		<RepositoryUrl>https://github.com/dylanparson001/Onyx.Shared.Contracts</RepositoryUrl>
 
 
 		<ImplicitUsings>enable</ImplicitUsings>
